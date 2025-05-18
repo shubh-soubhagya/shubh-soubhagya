@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Soubhagya Srivastava  
 #### Data Scientist & AI/ML Engineer  
 
----
-
 🌟 Welcome to my GitHub profile! I'm a passionate AI/ML developer from India, dedicated to building innovative, data-driven solutions.
 I enjoy exploring the world of artificial intelligence, creating ML/DL models, and working on NLP applications. My goal is to solve real-world problems using the power of machine learning and data science.
 I'm always experimenting with new ideas and sharing my projects here. Feel free to check out my work and connect!
@@ -12,42 +10,28 @@ I'm always experimenting with new ideas and sharing my projects here. Feel free 
 ### 💼 Areas of Expertise:  
 - AI & Machine Learning Model Development  
 - Natural Language Processing (NLP) and Text Generation
-- Generative AI (GenAI) for Content and Code Generation
+- Generative AI (GenAI) for Content Generation
 - Agentic AI for Autonomous Decision-Making Systems
 - AI in Cybersecurity and Data Protection  
 - LLM Fine-tuning and Custom Model Building
 - Data Science and Predictive Analytics  
 - Computer Vision and Deep Learning
 - Exploratory Data Analysis (EDA) and Data Visualization  
-- AI-Driven Web Application Development  
-
----
-
-### 💡 My Mission:  
-To build scalable and impactful AI solutions that solve real-world challenges, foster innovation, and contribute to technological advancement.  
+- AI-Driven Web Application Development   
 
 ---
 
 ### 📫 Let's Connect:  
 - 💼 [LinkedIn](https://linkedin.com/in/soubhagya-srivastava-611408267)  
-- ✉️ Email: soubhagyasrivastava241@gmail.com  
+- ✉️ Email: soubhagyasrivastava240@gmail.com  
 
 Feel free to explore my repositories and projects! Your feedback and collaboration are always welcome.  
 
+--- 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh-soubhagya&label=Profile%20views&color=0e75b6&style=flat" alt="shubh-soubhagya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh-soubhagya" alt="shubh-soubhagya" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/soubhagya-srivastava-611408267" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soubhagya-srivastava-611408267" height="30" width="40" />
-  </a>
-  <a href="mailto:soubhagyasrivastava240@gmail.com" target="_blank" style="margin-left:10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" />
-  </a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,3 +40,10 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-soubhagya&show_icons=true&locale=en&layout=compact" alt="shubh-soubhagya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh-soubhagya&show_icons=true&locale=en" alt="shubh-soubhagya" /></p>
+
+---
+
+### 💡 My Mission:  
+To build scalable and impactful AI solutions that solve real-world challenges, foster innovation, and contribute to technological advancement. 
+
+Feel free to explore my repositories and projects! Your feedback and collaboration are always welcome.  
