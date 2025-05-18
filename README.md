@@ -1,7 +1,7 @@
-<p align="center">
+<div align="center">
   <h1>👋 Hi, I'm Soubhagya Srivastava</h1>
   <h4>Data Scientist & AI/ML Engineer</h4>
-</p>
+</div>
 
 🌟 Welcome to my GitHub profile! I'm a passionate AI/ML developer from India, dedicated to building innovative, data-driven solutions.
 I enjoy exploring the world of artificial intelligence, creating ML/DL models, and working on NLP applications. My goal is to solve real-world problems using the power of machine learning and data science.
