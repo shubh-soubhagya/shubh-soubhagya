@@ -35,7 +35,7 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh-soubhagya" alt="shubh-soubhagya" /></a> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Shoubhagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubh-soubhagya)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
 
