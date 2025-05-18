@@ -9,7 +9,7 @@ I'm always experimenting with new ideas and sharing my projects here. Feel free 
 
 ---
 
-### 💼 Areas of Expertise 
+## 💼 Areas of Expertise 
 <div style="display: flex; justify-content: center;">
 
 |                                          |                                          |
@@ -29,7 +29,7 @@ I'm always experimenting with new ideas and sharing my projects here. Feel free 
 
 ---
 
-### 📫 Let's Connect:  
+## 📫 Let's Connect:  
 - 💼 [LinkedIn](https://linkedin.com/in/soubhagya-srivastava-611408267)  
 - ✉️ Email: soubhagyasrivastava240@gmail.com  
 
@@ -37,9 +37,9 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
 
 --- 
 
-### Technologies and Tools
+## Technologies and Tools
 
-#### Programming Language 
+### Programming Language 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="100" height="60" />
 </a>
@@ -53,7 +53,7 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="60" height="60" />
 </a>
 
-#### AI / ML / DL / NLP / Generative AI / LLMs
+### AI / ML / DL / NLP / Generative AI / LLMs
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60"/>
 </a>
@@ -110,9 +110,7 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
   <img src="https://huggingface.co/blog/assets/gemma/Gemma-logo-small.png" alt="Google Gemma LLM" width="80" height="60"/>
 </a>
 
-
-
-#### Frameworks / Web / APIs
+### Frameworks / Web / APIs
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://images.seeklogo.com/logo-png/27/2/flask-logo-png_seeklogo-273085.png" alt="Flask" width="60" height="60"/>
 </a>
@@ -145,7 +143,7 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
 </a>
 
 
-#### Version Control / Databases / Cloud / Dev Tools
+### Version Control / Databases / Cloud / Dev Tools
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
 </a>
@@ -177,7 +175,7 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
 </a>
 
-#### IDEs / Notebooks / Platforms
+### IDEs / Notebooks / Platforms
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer" title="Google Colab">
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colaboratory" width="60" height="60"/>
 </a>
@@ -192,7 +190,9 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh-soubhagya" alt="shubh-soubhagya" /></a> </p>
+## STATS
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh-soubhagya&" alt="shubh-soubhagya" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-soubhagya&show_icons=true&locale=en&layout=compact" alt="shubh-soubhagya" /></p>
 
