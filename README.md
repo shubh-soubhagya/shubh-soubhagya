@@ -1,5 +1,7 @@
-# 👋 Hi, I'm Soubhagya Srivastava  
-#### Data Scientist & AI/ML Engineer  
+<p align="center">
+  <h1>👋 Hi, I'm Soubhagya Srivastava</h1>
+  <h4>Data Scientist & AI/ML Engineer</h4>
+</p>
 
 🌟 Welcome to my GitHub profile! I'm a passionate AI/ML developer from India, dedicated to building innovative, data-driven solutions.
 I enjoy exploring the world of artificial intelligence, creating ML/DL models, and working on NLP applications. My goal is to solve real-world problems using the power of machine learning and data science.
@@ -7,18 +9,20 @@ I'm always experimenting with new ideas and sharing my projects here. Feel free 
 
 ---
 
-### 💼 Areas of Expertise:  
-- AI & Machine Learning Model Development  
-- Natural Language Processing (NLP) and Text Generation
-- Generative AI (GenAI) for Content Generation
-- Agentic AI for Autonomous Decision-Making Systems
-- AI in Cybersecurity and Data Protection  
-- LLM Fine-tuning and Custom Model Building
-- Data Science and Predictive Analytics  
-- Computer Vision and Deep Learning
-- Exploratory Data Analysis (EDA) and Data Visualization  
-- AI-Driven Web Application Development   
+### 💼 Areas of Expertise
 
+| Area                                     | Description                                      |
+|------------------------------------------|------------------------------------------------|
+| 🤖 AI & Machine Learning                  | Model development including GenAI & Agentic AI |
+| 🗣️ NLP & Text Generation                  | Natural Language Processing and LLM fine-tuning|
+| 🎨 Generative AI                          | Content and code generation                      |
+| ⚙️ Agentic AI                            | Autonomous decision-making systems               |
+| 🛡️ AI in Cybersecurity                   | AI applications for data protection              |
+| 📊 Data Science & Predictive Analytics   | Data analysis, forecasting, and visualization    |
+| 👁️ Computer Vision & Deep Learning       | Image & video analysis with deep models          |
+| 📈 Exploratory Data Analysis (EDA)        | Data visualization and insight extraction        |
+| 🌐 AI-Driven Web Application Development | Building intelligent web applications             |
+  
 ---
 
 ### 📫 Let's Connect:  
