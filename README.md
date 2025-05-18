@@ -33,8 +33,6 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
 
 --- 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh-soubhagya" alt="shubh-soubhagya" /></a> </p>
-
 ### Technologies and Tools
 
 #### Programming Language 
@@ -189,7 +187,9 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
 
+---
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh-soubhagya" alt="shubh-soubhagya" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-soubhagya&show_icons=true&locale=en&layout=compact" alt="shubh-soubhagya" /></p>
 
