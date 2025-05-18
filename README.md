@@ -11,17 +11,18 @@ I'm always experimenting with new ideas and sharing my projects here. Feel free 
 
 ### 💼 Areas of Expertise
 
-| Area                                     | Description                                      |
-|------------------------------------------|------------------------------------------------|
-| 🤖 AI & Machine Learning                  | Model development including GenAI & Agentic AI |
-| 🗣️ NLP & Text Generation                  | Natural Language Processing and LLM fine-tuning|
-| 🎨 Generative AI                          | Content and code generation                      |
-| ⚙️ Agentic AI                            | Autonomous decision-making systems               |
-| 🛡️ AI in Cybersecurity                   | AI applications for data protection              |
-| 📊 Data Science & Predictive Analytics   | Data analysis, forecasting, and visualization    |
-| 👁️ Computer Vision & Deep Learning       | Image & video analysis with deep models          |
-| 📈 Exploratory Data Analysis (EDA)        | Data visualization and insight extraction        |
-| 🌐 AI-Driven Web Application Development | Building intelligent web applications             |
+
+|------------------------------------------|------------------------------------------|
+| 🤖 **AI & Machine Learning**              | 🛡️ **AI in Cybersecurity**                |
+| 🗣️ **NLP & Text Generation**              | ⚙️ **Agentic AI**                         |
+| 🎨 **Generative AI**                      | 📊 **Data Science & Predictive Analytics** |
+| 👁️ **Computer Vision & Deep Learning**     | 📈 **Exploratory Data Analysis (EDA)**     |
+| 🌐 **AI-Driven Web Application Development**| 📊 **Data Visualization**                 |
+| 💾 **Model Deployment**                   | 🛠️ **Feature Engineering**                 |
+| 🔄 **Data Preprocessing**                 | 🗂️ **Data Handling & Manipulation**         |
+| 📚 **Libraries & Frameworks**              | 🛠️ **Tools & Platforms**                   |
+| 🌱 **Version Control & Collaboration**     | 🌍 **Cloud & Deployment Services**          |
+| 💡 **Other Technical Skills**              | 🌐 **Web Development & APIs**               |
   
 ---
 
@@ -178,8 +179,7 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colaboratory" width="60" height="60"/>
 </a>
 <a href="https://www.kaggle.com/code" target="_blank" rel="noreferrer" title="Kaggle Notebooks">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg
-" alt="Kaggle Notebooks" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle Notebooks" width="60" height="60"/>
 </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer" title="Jupyter Notebooks">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebooks" width="60" height="60"/>
