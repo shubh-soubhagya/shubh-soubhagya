@@ -9,8 +9,8 @@ I'm always experimenting with new ideas and sharing my projects here. Feel free 
 
 ---
 
-### 💼 Areas of Expertise
-<p align="center">
+### 💼 Areas of Expertise 
+<div style="display: flex; justify-content: center;">
 
 |                                          |                                          |
 |------------------------------------------|------------------------------------------|
@@ -25,7 +25,7 @@ I'm always experimenting with new ideas and sharing my projects here. Feel free 
 | 🌱 Version Control & Collaboration        | 🌍 Cloud & Deployment Services               |
 | 💡 Other Technical Skills                 | 🌐 Web Development & APIs                   |
 
-</p>
+</div>
 
 ---
 
