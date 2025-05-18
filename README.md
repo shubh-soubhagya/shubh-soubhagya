@@ -10,19 +10,19 @@ I'm always experimenting with new ideas and sharing my projects here. Feel free 
 ---
 
 ### 💼 Areas of Expertise
-
-
+|                                          |                                          |
 |------------------------------------------|------------------------------------------|
-| 🤖 **AI & Machine Learning**              | 🛡️ **AI in Cybersecurity**                |
-| 🗣️ **NLP & Text Generation**              | ⚙️ **Agentic AI**                         |
-| 🎨 **Generative AI**                      | 📊 **Data Science & Predictive Analytics** |
-| 👁️ **Computer Vision & Deep Learning**     | 📈 **Exploratory Data Analysis (EDA)**     |
-| 🌐 **AI-Driven Web Application Development**| 📊 **Data Visualization**                 |
-| 💾 **Model Deployment**                   | 🛠️ **Feature Engineering**                 |
-| 🔄 **Data Preprocessing**                 | 🗂️ **Data Handling & Manipulation**         |
-| 📚 **Libraries & Frameworks**              | 🛠️ **Tools & Platforms**                   |
-| 🌱 **Version Control & Collaboration**     | 🌍 **Cloud & Deployment Services**          |
-| 💡 **Other Technical Skills**              | 🌐 **Web Development & APIs**               |
+| 🤖 AI & Machine Learning                 | 🛡️ AI in Cybersecurity                     |
+| 🗣️ NLP & Text Generation                 | ⚙️ Agentic AI                              |
+| 🎨 Generative AI                         | 📊 Data Science & Predictive Analytics      |
+| 👁️ Computer Vision & Deep Learning       | 📈 Exploratory Data Analysis (EDA)          |
+| 🌐 AI-Driven Web Application Development | 📊 Data Visualization                      |
+| 💾 Model Deployment                      | 🛠️ Feature Engineering                      |
+| 🔄 Data Preprocessing                    | 🗂️ Data Handling & Manipulation             |
+| 📚 Libraries & Frameworks                 | 🛠️ Tools & Platforms                        |
+| 🌱 Version Control & Collaboration        | 🌍 Cloud & Deployment Services               |
+| 💡 Other Technical Skills                 | 🌐 Web Development & APIs                   |
+
   
 ---
 
