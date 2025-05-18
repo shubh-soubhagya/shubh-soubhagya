@@ -1,5 +1,39 @@
-<h1 align="center">Hi 👋, I'm Soubhagya Srivastava</h1>
-<h3 align="center">A passionate AI/ML Developer from India</h3>
+# 👋 Hi, I'm Soubhagya Srivastava  
+### 🚀 Data Scientist & AI/ML Engineer  
+
+---
+
+🌟 Welcome to my GitHub profile! I'm a passionate AI/ML developer from India, dedicated to building innovative, data-driven solutions.
+I enjoy exploring the world of artificial intelligence, creating ML/DL models, and working on NLP applications. My goal is to solve real-world problems using the power of machine learning and data science.
+I'm always experimenting with new ideas and sharing my projects here. Feel free to check out my work and connect!
+
+---
+
+### 💼 Areas of Expertise:  
+- AI & Machine Learning Model Development  
+- Natural Language Processing (NLP) and Text Generation
+- Generative AI (GenAI) for Content and Code Generation
+- Agentic AI for Autonomous Decision-Making Systems
+- AI in Cybersecurity and Data Protection  
+- LLM Fine-tuning and Custom Model Building
+- Data Science and Predictive Analytics  
+- Computer Vision and Deep Learning
+- Exploratory Data Analysis (EDA) and Data Visualization  
+- AI-Driven Web Application Development  
+
+---
+
+### 💡 My Mission:  
+To build scalable and impactful AI solutions that solve real-world challenges, foster innovation, and contribute to technological advancement.  
+
+---
+
+### 📫 Let's Connect:  
+- 💼 [LinkedIn](https://linkedin.com/in/soubhagya-srivastava-611408267)  
+- ✉️ Email: soubhagyasrivastava241@gmail.com  
+
+Feel free to explore my repositories and projects! Your feedback and collaboration are always welcome.  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh-soubhagya&label=Profile%20views&color=0e75b6&style=flat" alt="shubh-soubhagya" /> </p>
 
