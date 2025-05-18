@@ -10,6 +10,7 @@ I'm always experimenting with new ideas and sharing my projects here. Feel free 
 ---
 
 ### 💼 Areas of Expertise
+<p align="center">
 |                                          |                                          |
 |------------------------------------------|------------------------------------------|
 | 🤖 AI & Machine Learning                 | 🛡️ AI in Cybersecurity                     |
@@ -22,7 +23,7 @@ I'm always experimenting with new ideas and sharing my projects here. Feel free 
 | 📚 Libraries & Frameworks                 | 🛠️ Tools & Platforms                        |
 | 🌱 Version Control & Collaboration        | 🌍 Cloud & Deployment Services               |
 | 💡 Other Technical Skills                 | 🌐 Web Development & APIs                   |
-
+</p>
   
 ---
 
