@@ -192,7 +192,7 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
 
 ## STATS
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh-soubhagya&" alt="shubh-soubhagya" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shubh-soubhagya&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-soubhagya&show_icons=true&locale=en&layout=compact" alt="shubh-soubhagya" /></p>
 
