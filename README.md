@@ -192,33 +192,29 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh-soubhagya&show_icons=true&theme=radical&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubh-soubhagya&theme=radical&hide_border=true" height="180px"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-soubhagya&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="180px"/>
-</p>
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh-soubhagya&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh-soubhagya&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <!-- Extra Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubh-soubhagya&theme=tokyonight" height="180px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubh-soubhagya&theme=tokyonight&utcOffset=5" height="180px"/>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=shubh-soubhagya&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=shubh-soubhagya&theme=radical&hide_border=true" height="180px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-soubhagya&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="180px"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubh-soubhagya&theme=tokyonight" height="180px"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh-soubhagya&theme=tokyo-night&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
