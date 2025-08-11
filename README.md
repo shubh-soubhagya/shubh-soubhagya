@@ -194,27 +194,29 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shubh-soubhagya&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shubh-soubhagya&show_icons=true&theme=radical&hide_border=true" height="180px" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=shubh-soubhagya&theme=radical&hide_border=true" height="180px"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-soubhagya&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="180px"/>
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubh-soubhagya&theme=tokyonight" height="180px"/>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=shubh-soubhagya&theme=radical&hide_border=true" height="180px" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh-soubhagya&theme=tokyo-night&hide_border=true" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-soubhagya&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="180px" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubh-soubhagya&theme=tokyonight" height="180px" />
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh-soubhagya&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 ---
 
