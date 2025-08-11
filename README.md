@@ -190,16 +190,33 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
 
 ---
 
-## STATS
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shubh-soubhagya&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-soubhagya&show_icons=true&locale=en&layout=compact" alt="shubh-soubhagya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh-soubhagya&show_icons=true&locale=en" alt="shubh-soubhagya" /></p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/shubh-soubhagya?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta" alt="Metrics" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh-soubhagya&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubh-soubhagya&theme=radical&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-soubhagya&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh-soubhagya&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh-soubhagya&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- Extra Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubh-soubhagya&theme=tokyonight" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubh-soubhagya&theme=tokyonight&utcOffset=5" height="180px"/>
 </p>
 
 
